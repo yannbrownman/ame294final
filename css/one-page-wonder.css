@@ -1,4 +1,4 @@
-/*!
+4/*!
  * Start Bootstrap - One Page Wonder HTML Template (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
@@ -12,7 +12,7 @@ body {
     display: block;
     width: 100%;
     text-align: center;
-    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background: red;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -21,6 +21,7 @@ body {
 
 .headline {
     padding: 120px 0;
+
 }
 
 .headline h1 {
@@ -31,8 +32,9 @@ body {
 
 .headline h2 {
     font-size: 77px;
+	text-align: center;
     background: #fff;
-    background: rgba(255,255,255,0.9);
+    background: rgb(255,255,255,0.9);
 }
 
 .featurette-divider {

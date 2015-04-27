@@ -240,7 +240,7 @@ th {
     page-break-after: avoid;
   }
   select {
-    background: #fff !important;
+    background: black !important;
   }
   .navbar {
     display: none;
